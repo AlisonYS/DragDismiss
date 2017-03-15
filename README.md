@@ -22,4 +22,4 @@ private void setViewInfo() {
 
 ## Tests 项目运行效果
 
-![drag gif]()
+![drag gif](https://github.com/AlisonYS/DragDismiss/blob/master/AUmipCcGbduMBgaojVAV.gif)
