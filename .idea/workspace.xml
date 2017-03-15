@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7fa891b-3fdb-4941-b8e0-cf5722048abf" name="Default" comment="" />
+    <list default="true" id="d7fa891b-3fdb-4941-b8e0-cf5722048abf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DragDismiss/app/src/main/java/com/example/alison/dragdismiss/activity/ImageShowActivity.java" afterPath="$PROJECT_DIR$/DragDismiss/app/src/main/java/com/example/alison/dragdismiss/activity/ImageShowActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="DragDismiss.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />

@@ -8,6 +8,18 @@ An imageview that be showed just like facebook showed when the image should scal
 
 ## Code Example 代码示例
 
+```
+private void setViewInfo() {
+    Intent intent = getIntent();
+    if (scaleImageView!= null){
+    Drawable drawable = getResources().getDrawable(R.mipmap.timg);
+    scaleImageView.setClickViewInfo((ViewInfo) intent.getSerializableExtra(Constant.DRAG_VIEW), drawable);
+    scaleImageView.setDismissListener(this);
+    }
+}
+```
 
 
 ## Tests 项目运行效果
+
+![drag gif]()

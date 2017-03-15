@@ -27,7 +27,7 @@ public class ImageShowActivity extends Activity implements ScaleImageView.Dismis
     }
 
     /**
-     * 获取点击的view的信息
+     * 设置点击的view的信息
      */
     private void setViewInfo() {
         Intent intent = getIntent();
